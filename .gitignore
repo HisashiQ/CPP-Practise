@@ -1,0 +1,7 @@
+*.pdf
+*/*.pdf
+*.zip
+pontoon
+temp
+testqueue
+.DS_Store

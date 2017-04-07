@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/quinn/Code/CPP/Sem2/Lab2-Wk3/Part2/CurrentAccount.cpp
+iostream
+-
+CurrentAccount.h
+/Users/quinn/Code/CPP/Sem2/Lab2-Wk3/Part2/CurrentAccount.h
+
+/Users/quinn/Code/CPP/Sem2/Lab2-Wk3/Part2/CurrentAccount.h
+cstddef
+-
+
+/Users/quinn/Code/CPP/Sem2/Lab2-Wk3/Part2/SavingsAccount.cpp
+SavingsAccount.h
+/Users/quinn/Code/CPP/Sem2/Lab2-Wk3/Part2/SavingsAccount.h
+
+/Users/quinn/Code/CPP/Sem2/Lab2-Wk3/Part2/SavingsAccount.h
+CurrentAccount.h
+/Users/quinn/Code/CPP/Sem2/Lab2-Wk3/Part2/CurrentAccount.h
+
+/Users/quinn/Code/CPP/Sem2/Lab2-Wk3/Part2/main.cpp
+iostream
+-
+CurrentAccount.h
+/Users/quinn/Code/CPP/Sem2/Lab2-Wk3/Part2/CurrentAccount.h
+SavingsAccount.h
+/Users/quinn/Code/CPP/Sem2/Lab2-Wk3/Part2/SavingsAccount.h
+

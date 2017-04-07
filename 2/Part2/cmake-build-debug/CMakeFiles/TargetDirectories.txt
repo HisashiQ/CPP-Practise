@@ -1,0 +1,3 @@
+/Users/quinn/Code/CPP/Sem2/Lab2-Wk3/Part2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/quinn/Code/CPP/Sem2/Lab2-Wk3/Part2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/quinn/Code/CPP/Sem2/Lab2-Wk3/Part2/cmake-build-debug/CMakeFiles/Part2.dir
